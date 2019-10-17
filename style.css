@@ -1,0 +1,43 @@
+td{
+	padding: 1em;
+	border-style: solid;
+}
+th{
+	padding: 1em;
+	border-style: solid;
+}	
+#red{
+background-color: #FF5733;
+color: green;
+}
+#purp{
+	background-color: #A97D74;
+}
+#b{
+	background-color: #75C1BA;
+}
+#y{
+	background-color: #C9D743;
+}
+#g{
+	background-color: #D2D7A1;
+}
+td:hover {
+	background-color: pink;
+}
+#red:hover,
+#purp:hover,
+#b:hover,
+#y:hover,
+#g:hover{
+	background-color: pink;
+	cursor: grab;
+}
+a{
+	color: black;
+	text-decoration:none;
+}
+#red{
+
+	color: green;
+}
